@@ -43,33 +43,43 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&stats_format=bytes)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dallah100/github-readme-stats)
 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark" 
+    height="200"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dallah100&layout=compact&langs_count=8&card_width=400&theme=dark" 
+    height="200"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true" />
-</picture>
+</p>
 
-<a href="https://github.com/dallah100/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dallah100" />
-</a>
-<a href="https://github.com/dallah100/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dallah100&layout=compact&langs_count=8&card_width=320" />
-</a>
+---
 
-<a href="https://github.com/dallah100/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/dallah100/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=convoychat" />
-</a>
+## 📌 Featured Repositories
 
-
+<p align="center">
+  <a href="https://github.com/dallah100/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/dallah100/convoychat">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=convoychat&theme=dark"
+    />
+  </a>
+</p>
 
 ---
 ## 💻 Languages & Tools
