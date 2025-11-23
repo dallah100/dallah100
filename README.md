@@ -54,31 +54,70 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&commits_year=2020)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&bg_color=00000000)
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark#gh-dark-mode-only)
-![Anurag's GitHub stats-Dark](https://github.com/dallah100/github-readme-stats#gh-dark-mode-only)
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=default#gh-light-mode-only)
-![Anurag's GitHub stats-Light](https://github.com/dallah100/github-readme-stats#gh-light-mode-only)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats)](https://github.com/dallah100/github-readme-stats)
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
-![Anurag's GitHub stats-Light](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100)](https://github.com/dallah100/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&exclude_repo=github-readme-stats,dallah100.github.io)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide=javascript,html)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=donut)](https://github.com/dallah100/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=donut-vertical)](https://github.com/dallah100/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=pie)](https://github.com/dallah100/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&stats_format=bytes)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dallah100/github-readme-stats)
+## 📊 GitHub Stats Examples (Corrected)
+
+![Stats - hide contribs & prs](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
+
+![Stats - show extra fields](https://github-readme-stats.vercel.app/api?username=dallah100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Stats - default with icons](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true)
+
+![Stats - commits of 2020](https://github-readme-stats.vercel.app/api?username=dallah100&commits_year=2020)
+
+![Stats - radical theme](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=radical)
+
+![Stats - transparent theme](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=transparent)
+
+![Stats - fully transparent background](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&bg_color=00000000)
+
+### 🌗 Auto Theme (Dark / Light)
+
+[![Stats - Dark](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dallah100)
+[![Stats - Light](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dallah100)
+
+---
+
+## 📌 Pinned Repos
+
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats)](https://github.com/dallah100/github-readme-stats)
+
+---
+
+## 💬 Gist Card (This stays same because it's a public gist ID)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
+
+---
+
+## 🔥 Top Languages (All Corrected)
+
+[![Top Langs - default](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100)](https://github.com/dallah100)
+
+![Top Langs - size vs count weight](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&size_weight=0.5&count_weight=0.5)
+
+![Top Langs - exclude repos](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&exclude_repo=github-readme-stats,dallah100.github.io)
+
+![Top Langs - hide JS & HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide=javascript,html)
+
+![Top Langs - 8 languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&langs_count=8)
+
+![Top Langs - compact](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact)
+
+[![Top Langs - donut](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=donut)](https://github.com/dallah100)
+
+[![Top Langs - donut vertical](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=donut-vertical)](https://github.com/dallah100)
+
+[![Top Langs - pie](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=pie)](https://github.com/dallah100)
+
+![Top Langs - hide progress bars](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide_progress=true)
+
+![Top Langs - Byte format](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&stats_format=bytes)
+
+---
+
+## ⏱ WakaTime (This works only if you have WakaTime)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dallah100)](https://github.com/dallah100/github-readme-stats)
+
 
 ## 💻 Languages & Tools
