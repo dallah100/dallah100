@@ -54,7 +54,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&commits_year=2020)
@@ -76,8 +76,73 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=pie)](https://github.com/dallah100/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&stats_format=bytes)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dallah100/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact&theme=dark&langs_count=6&hide=html,css)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dallah100/github-readme-stats)-->
 
 ## 💻 Languages & Tools
+## 🌟 GitHub Stats (Auto Theme)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true" 
+    alt="GitHub Stats"
+  />
+</picture>
+
+---
+
+## 🔥 Top Languages (Auto Theme)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact" 
+    alt="Top Languages"
+  />
+</picture>
+
+---
+
+## 📌 Pinned Repositories (Auto Theme)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats" 
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=convoychat&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=convoychat&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=convoychat" 
+  />
+</picture>
