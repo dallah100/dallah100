@@ -17,7 +17,7 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 - [Email](mailto:abdallahhamdy660@gmail.com)
 
 ---
-
+<!--
 ## 📊 GitHub Stats (Auto Theme)
 
 <picture>
@@ -37,7 +37,7 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 
 ---
 
-## 🔥 Most Used Languages (Auto Theme)
+## 🔥 Most Used Languages
 
 <picture>
   <source
@@ -74,10 +74,8 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 </p>
 
 ---
-
+-->
 ## 💻 Languages & Tools
-
-## 💻 Skills
 
 <p align="center">
 
