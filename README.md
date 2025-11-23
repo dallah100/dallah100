@@ -24,7 +24,8 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ---
 
 ## 💻 Languages & Tools
-![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/%20-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CCNA](https://img.shields.io/badge/%20-0082C9?style=for-the-badge&logo=cisco&logoColor=white)
