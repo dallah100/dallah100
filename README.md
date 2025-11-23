@@ -55,7 +55,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&commits_year=2020)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=radical)
