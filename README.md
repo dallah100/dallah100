@@ -12,8 +12,8 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 ---
 
 ## 📫 Connect with Me
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96)](https://www.linkedin.com/in/dallah100/)
-[![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=96)](https://facebook.com/dallah100)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdallah100)](https://www.linkedin.com/in/dallah100)
+[![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Ffacebook.com%2Fdallah100)](https://facebook.com/dallah100)
 [![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&reverseBackground=true&link=mailto%3Aabdallahhamdy660%40gmail.com)](mailto:abdallahhamdy660@gmail.com)
 
 
