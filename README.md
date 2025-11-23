@@ -23,3 +23,4 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 
 ---
 ## 💻 Languages & Tools
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
