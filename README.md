@@ -12,7 +12,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/dallah100/)
 - [facebook](https://facebook.com/dallah100)
 - [Email](mailto:abdallahhamdy660@gmail.com)
 
