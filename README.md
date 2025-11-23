@@ -19,7 +19,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=radical)
 
 ---
 
