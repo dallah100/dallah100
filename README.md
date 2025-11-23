@@ -19,7 +19,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&commits_year=2020)
@@ -42,7 +42,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&stats_format=bytes)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dallah100/github-readme-stats)
-
+-->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark"
