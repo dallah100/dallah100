@@ -81,13 +81,13 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 ## 💻 Languages & Tools
 
 [![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fgithub.com%2Fdallah100)](https://github.com/dallah100)
 [![python](https://www.readmecodegen.com/api/social-icon?name=python&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fwww.python.org%2F)](https://www.python.org/)
 [![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fgit-scm.com%2F)](https://git-scm.com/)
 [![gitlab](https://www.readmecodegen.com/api/social-icon?name=gitlab&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fabout.gitlab.com%2F)](https://about.gitlab.com/)
 [![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fwww.mysql.com%2F)](https://www.mysql.com/)
+[![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fgithub.com%2Fdallah100)](https://github.com/dallah100)
 
 
 
