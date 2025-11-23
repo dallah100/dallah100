@@ -77,5 +77,7 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&stats_format=bytes)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/dallah100/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100&layout=compact&theme=dark&langs_count=6&hide=html,css)
+
 
 ## 💻 Languages & Tools
