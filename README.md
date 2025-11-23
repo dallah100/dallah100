@@ -77,10 +77,73 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 
 ## 💻 Languages & Tools
 
+## 💻 Skills
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,github" />
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/dallah100" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <!-- GitLab -->
+  <a href="https://gitlab.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+
+  <!-- PyCharm -->
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pycharm" />
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+
+  <!-- Ubuntu -->
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+  </a>
+
 </p>
-
----
-
-⭐ *Thanks for visiting! Feel free to explore my repositories.*  
