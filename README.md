@@ -22,5 +22,4 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=radical)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100)](https://github.com/dallah100/github-readme-stats)
 ## 💻 Languages & Tools
