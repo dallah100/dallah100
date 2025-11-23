@@ -28,7 +28,6 @@ I'm a web developer passionate about programming and UI/UX design. I also enjoy 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&bg_color=00000000)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dallah100/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dallah100&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dallah100/github-readme-stats#gh-light-mode-only)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dallah100&repo=github-readme-stats)](https://github.com/dallah100/github-readme-stats)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallah100)](https://github.com/dallah100/github-readme-stats)
