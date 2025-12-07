@@ -1,4 +1,3 @@
-<!-- 
 # 👋 Hello, Welcome to My Profile!
 
 I'm a web developer passionate about **frontend development**, **UI/UX**, and learning **Python** for automation and backend scripting.
@@ -33,8 +32,7 @@ I'm a web developer passionate about **frontend development**, **UI/UX**, and le
 
 [![ubuntu](https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fubuntu.com%2F)](https://ubuntu.com/)
 [![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=96&reverseBackground=true&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwindows%2F%3Fr%3D1)](https://www.microsoft.com/en-us/windows/?r=1)
--->
-
+<!--
 <p align="center">
   <img src="https://i.ibb.co/nb4d6pg/github-banner.png" width="100%" alt="GitHub Banner"/>
 </p>
@@ -142,3 +140,4 @@ Scripts to automate repetitive tasks.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahhamdy660@gmail.com)
 
 ---
+-->
