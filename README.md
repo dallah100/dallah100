@@ -31,7 +31,7 @@
 - Backup Solutions (Veeam, Proxmox Backup Server)
 
 ### 🌐 Networking
-- Cisco (Catalyst 3750)
+- Cisco (Catalyst)
 - HP & Fortinet Switches
 - UniFi Controller & Access Points
 - Site-to-Site VPN
