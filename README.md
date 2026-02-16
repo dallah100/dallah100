@@ -1,120 +1,128 @@
-# Abdallah Hamdy Portfolio
+<h1 align="center">
+  Hi 👋, I'm Abdallah Hamdy
+</h1>
 
-موقع Portfolio شخصي ثابت لعرض خبرات ومهارات ومشاريع **IT Infrastructure & System Administration**.
+<h3 align="center">
+  IT System Administrator | IT Specialist
+</h3>
 
-## About
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT%20System%20Administrator;Network%20%26%20Firewall%20Specialist;Windows%20Server%20%26%20Virtualization;Always%20Learning%20New%20Things&center=true&width=600&height=45">
+</p>
 
-Infrastructure-first IT administrator who keeps systems secure and reliable.
-يركز على الشبكات، الأنظمة، الأمن، دعم ERP، واستقرار بيئة العمل للمستخدمين.
+---
 
-## Quick Snapshot
+## 👨‍💻 About Me
 
-- `4` IT roles held
-- `7` Certifications & trainings
-- `2` Firewall platforms: FortiGate & Sophos XG
+- 💼 **IT System Administrator** at **Wagdy Moamen Group**
+- 🏢 Experience in **Enterprise IT Infrastructure & Multi-Branch Networks**
+- 🔥 Strong background in **Firewalls, Virtualization, ERP, Backup**
+- 🌍 Based in **Obour City, Egypt**
+- 📈 Always improving my skills in **System & Network Administration**
 
-## Experience Highlights
+---
 
-- `Feb 2024 - Present` | IT System Administrator | Wagdy Moamen Group (Obour City)
-- `May 2023 - Feb 2024` | IT Specialist | Al-Tawfiq Company for Plastic & Woven Sacks
-- `Jul 2022 - May 2023` | IT Specialist | Royal Industry and Trade (SERA)
-- `Jan 2021 - Jun 2021` | IT Help Desk | Mepaco Company of Medicine
+## 🛠️ Technical Skills
 
-## Core Skills
+### 🔧 Systems & Infrastructure
+- Windows Server (AD, DNS, DHCP)
+- User & Permission Management
+- Virtualization (VMware ESXi, Proxmox VE)
+- Backup Solutions (Veeam, Proxmox Backup Server)
 
-- Networking: `85%`
-- Security: `80%`
-- Systems: `90%`
-- Virtualization: `75%`
-- Backup: `80%`
-- ERP Support: `75%`
-- Enterprise Support: `88%`
+### 🌐 Networking
+- Cisco (Catalyst)
+- HP & Fortinet Switches
+- UniFi Controller & Access Points
+- Site-to-Site VPN
 
-## Signature Projects
+### 🔐 Security & Firewalls
+- FortiGate Firewall
+- Sophos XG Firewall
+- Kaspersky Endpoint Security
 
-1. **Branch Infrastructure Rollout**  
-   Built a greenfield branch and onboarded 80+ users with stable day-one access.
-2. **Inter-Site VPN and Segmentation**  
-   Connected 3 factories and HQ over IPsec with secure VLAN-based traffic segmentation.
-3. **Virtualization and Backup Standardization**  
-   Standardized 10+ servers on VMware/Proxmox with tested backup and recovery runbooks.
-4. **Monitoring and Alerting Baseline**  
-   Deployed proactive monitoring for 250+ users to detect issues early and reduce downtime.
-5. **Endpoint Automation and Hardening**  
-   Automated onboarding, patching, and hardening to improve compliance and reduce manual effort.
-6. **VoIP and Internal Collaboration Deployment**  
-   Implemented Issabel and Openfire for internal calling and team messaging.
+### 🧩 Applications
+- Microsoft Dynamics AX (ERP)
+- Microsoft Office Suite
+- CRM Systems
+- CCTV Systems
 
-## Certifications
+---
 
-- FortiGate Certification (`Feb - Mar 2024`)
-- Sophos XG Certification (`Nov 2022 - Feb 2023`)
-- Veeam Backup (`Feb - Apr 2023`)
-- Kaspersky Course (`2021`)
-- Issabel & Openfire (`Feb - Mar 2021`)
-- MCSA (`Jun - Nov 2020`)
-- CCNA R&S (`Feb - May 2020`)
+## 🏢 Professional Experience
 
-## Contact
+### 🟢 IT System Administrator  
+**Wagdy Moamen Group** (Feb 2024 – Present)
+- Managing enterprise servers, networks & virtualization
+- FortiGate firewall configuration & VPN
+- Active Directory & Domain Controller setup
+- ERP & CRM systems support
+- Designed & built server room infrastructure
+- Established secure connection between factories
 
-- Email: `Abdallahhamdy660@gmail.com`
-- Location: `Cairo, Egypt`
-- LinkedIn: [Abdallah Hamdy](https://www.linkedin.com/in/dallah100?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- GitHub: [dallah100](https://github.com/dallah100)
-- WhatsApp: [Chat](https://wa.me/201095976843?text=Hello%20Abdallah)
+---
 
-## Website Features
+### 🟡 IT Specialist  
+**Al-Tawfiq Company** (May 2023 – Feb 2024)
+- VMware ESXi virtualization
+- Sophos firewall administration
+- Endpoint security & print servers
+- ERP (Dynamics AX) support
 
-- Responsive layout for desktop and mobile.
-- Dark/Light theme toggle with saved preference.
-- Side navigation with active section tracking.
-- Scroll reveal animations and animated counters.
-- Case study modal with project documentation gallery.
-- Lazy-loaded JavaScript modules and banner media.
+---
 
-## Tech Stack
+### 🔵 IT Specialist  
+**Royal Industry and Trade (SERA)** (Jul 2022 – May 2023)
+- Multi-branch IT support
+- ZeroTier secure remote access
+- Network & system troubleshooting
 
-- HTML5
-- CSS3
-- Vanilla JavaScript (ES Modules)
+---
 
-## Project Structure
+## 🎓 Education
 
-```text
-portfolio/
-|- index.html
-|- README.md
-|- Abdallah Hamdy.pdf
-|- assets/
-|  |- css/style.css
-|  |- js/main.js
-|  |- js/lazy-modal.js
-|  |- js/lazy-counts.js
-|  |- js/lazy-media.js
-|  |- img/
-|  `- image_pro/
-`- .gitlab-ci.yml
-```
+🎓 **Bachelor’s Degree in Management Information Systems**  
+El-Obour Higher Institute (2014 – 2018)
 
-## Run Locally
+---
 
-> Prefer running through a local server because the project uses ES Modules.
+## 📜 Certifications
 
-```bash
-python -m http.server 5500
-```
+- FortiGate Firewall
+- Sophos XG Firewall
+- Veeam Backup & Replication
+- MCSA
+- CCNA
+- Kaspersky Endpoint Security
+- Issabel & Openfire (VoIP)
 
-Open: `http://localhost:5500`
+---
 
-## Deploy to GitHub Pages
+## 🌐 Languages
 
-1. Push the project to your GitHub repository.
-2. Open repository `Settings` -> `Pages`.
-3. Select `Deploy from a branch`.
-4. Choose `main` branch and `/(root)`.
-5. Save and wait for deployment.
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Good Working Proficiency
 
-## Notes
+---
 
-- `Abdallah Hamdy.pdf` is used as downloadable CV.
-- `.gitlab-ci.yml` is for GitLab Pages and can be ignored if using GitHub only.
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dallah100)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dallah100)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201095976843?text=Hello%20Abdallah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahhamdy660@gmail.com)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 “Technology is best when it brings people together.”
+</p>
