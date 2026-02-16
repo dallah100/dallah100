@@ -100,8 +100,8 @@ El-Obour Higher Institute (2014 – 2018)
 
 ## 🌐 Languages
 
-- 🇪🇬 Arabic — Native  
-- 🇬🇧 English — Good Working Proficiency
+-  Arabic — Native  
+-  English — Good Working Proficiency
 
 ---
 
