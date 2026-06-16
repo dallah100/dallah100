@@ -1,24 +1,67 @@
-<h1 align="center">Hi, I'm Abdallah Hamdy</h1>
+<h1 align="center">Hi, I'm Abdallah Hamdy Abdelaziz</h1>
 
-<h3 align="center">IT System Administrator | IT Specialist</h3>
+<h3 align="center">IT Infrastructure & System Administrator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT%20System%20Administrator;Network%20%26%20Firewall%20Specialist;Windows%20Server%20%26%20Virtualization;ERP%20%26%20Backup%20Support;Always%20Learning%20New%20Things&center=true&width=650&height=45" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT%20Infrastructure%20Administrator;System%20Administrator;Network%20%26%20Firewall%20Specialist;Windows%20Server%20%26%20Virtualization;ERP%20%26%20Backup%20Support&center=true&width=720&height=45" alt="Typing animation">
+</p>
+
+<p align="center">
+  <a href="https://portfolio-ef2557.gitlab.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/dallah100">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Abdallahhamdy660@Gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/201095976843?text=Hello%20Abdallah">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I am an IT System Administrator based in Obour City, Egypt, with hands-on experience in enterprise infrastructure, multi-branch networks, firewalls, virtualization, backup solutions, and ERP support.
+I am an IT Infrastructure & System Administrator based in Cairo, Egypt. I build and maintain reliable IT foundations across systems, networking, security, virtualization, backup, ERP support, and enterprise user operations.
 
-Currently, I work at **Wagdy Moamen Group**, where I manage IT infrastructure, servers, networks, firewalls, VPN connections, domain services, and business systems.
+My work focuses on stable access, secure connectivity, clean network segmentation, reliable recovery, and practical infrastructure upgrades across branches, factories, and business departments.
 
-- IT System Administrator at **Wagdy Moamen Group**
-- Experienced in enterprise IT infrastructure and multi-branch environments
-- Strong background in firewalls, virtualization, ERP systems, backup, and endpoint security
-- Focused on stable, secure, and scalable IT operations
-- Continuously improving my skills in system and network administration
+- Current role: **IT System Administrator at Wagdy Moamen Group**
+- Experience across **enterprise users, factories, branches, and head office environments**
+- Hands-on with **Windows Server, Active Directory, firewalls, VPN, virtualization, backup, ERP, CRM, and CCTV**
+- Strong background in **FortiGate, Sophos XG, VMware, Proxmox, Veeam, UniFi, and Microsoft Dynamics AX**
+- Organized, analytical, and calm under pressure
+
+---
+
+## Profile Snapshot
+
+| Area | Details |
+| --- | --- |
+| IT roles held | 4 |
+| Certifications & training | 7 |
+| Firewall platforms | FortiGate, Sophos XG |
+| Enterprise users supported | 250+ |
+| Business locations | 3 factories & head office |
+| Servers managed | 10+ |
+| Virtualization stack | VMware ESXi, Proxmox VE |
+
+---
+
+## Core Skills
+
+| Skill | Focus |
+| --- | --- |
+| Systems Administration | Windows Server, AD, DNS, DHCP, user access |
+| Networking | Switching, segmentation, UniFi, multi-branch connectivity |
+| Security | Firewalls, VPN, endpoint protection, access control |
+| Virtualization | VMware ESXi, Proxmox VE |
+| Backup & Recovery | Veeam, Proxmox Backup Server, restore workflows |
+| ERP Support | Microsoft Dynamics AX and business workflows |
+| Enterprise Support | Users, branches, incidents, documentation |
 
 ---
 
@@ -31,7 +74,7 @@ Currently, I work at **Wagdy Moamen Group**, where I manage IT infrastructure, s
 - VMware ESXi and Proxmox VE virtualization
 - Veeam Backup & Replication
 - Proxmox Backup Server
-- Server room setup and infrastructure planning
+- Server room setup, racks, power, cooling, and layout planning
 
 ### Networking
 
@@ -39,14 +82,14 @@ Currently, I work at **Wagdy Moamen Group**, where I manage IT infrastructure, s
 - HP and Fortinet switches
 - UniFi Controller and wireless access points
 - Site-to-Site VPN
-- Multi-branch network support
-- Network troubleshooting and monitoring
+- ZeroTier secure remote access
+- Multi-branch network support and troubleshooting
 
 ### Security & Firewalls
 
 - FortiGate Firewall
 - Sophos XG Firewall
-- VPN configuration and secure remote access
+- Firewall rules, routing, VPNs, and network segmentation
 - Kaspersky Endpoint Security
 - Endpoint protection and access control
 
@@ -54,6 +97,7 @@ Currently, I work at **Wagdy Moamen Group**, where I manage IT infrastructure, s
 
 - Microsoft Dynamics AX ERP
 - CRM systems
+- Zoho Mail migration and support
 - Microsoft Office Suite
 - CCTV systems
 - Print server and shared services support
@@ -64,36 +108,84 @@ Currently, I work at **Wagdy Moamen Group**, where I manage IT infrastructure, s
 
 ### IT System Administrator
 
-**Wagdy Moamen Group**  
+**Wagdy Moamen Group | Obour City**  
 **Feb 2024 - Present**
 
-- Manage enterprise servers, networks, virtualization, and core IT services
-- Configure and administer FortiGate firewall policies, VPNs, and secure connectivity
-- Set up and maintain Active Directory, Domain Controller, DNS, DHCP, users, and permissions
-- Support ERP and CRM systems used across business departments
-- Designed and built server room infrastructure
+- Administer Windows Server Active Directory, DHCP, and DNS for enterprise users
+- Maintain firewall policies, routing, VPNs, and secure network segmentation
+- Support Microsoft Dynamics AX and business-critical workflows
+- Oversee virtualization and backup operations using VMware, Proxmox, Veeam, and Proxmox Backup Server
+- Designed and built server room infrastructure for business operations
 - Established secure connectivity between factories and business locations
 
 ### IT Specialist
 
-**Al-Tawfiq Company**  
+**Al-Tawfiq Company for Plastic & Woven Sacks**  
 **May 2023 - Feb 2024**
 
+- Delivered multi-branch IT support and troubleshooting
+- Configured ZeroTier for secure cross-branch access
 - Managed VMware ESXi virtualization environment
 - Administered Sophos firewall and security policies
-- Supported endpoint security, print servers, and shared IT services
+- Maintained network availability, endpoint security, and user access controls
 - Provided Microsoft Dynamics AX ERP support
-- Handled daily system, network, and user support tasks
 
 ### IT Specialist
 
 **Royal Industry and Trade (SERA)**  
 **Jul 2022 - May 2023**
 
-- Provided IT support across multiple branches
-- Implemented and supported ZeroTier secure remote access
-- Troubleshot network, workstation, and system issues
-- Supported users, devices, and business operations
+- Managed daily IT operations for staff and infrastructure
+- Supported network devices, Windows services, and endpoint systems
+- Resolved incidents with clear communication and follow-through
+- Supported users, devices, and business operations across multiple branches
+
+### IT Help Desk
+
+**Mepaco Company of Medicine**  
+**Jan 2021 - Jun 2021**
+
+- Handled user support tickets and system troubleshooting
+- Maintained endpoint security and basic network access
+- Coordinated with teams to restore services quickly
+
+---
+
+## Signature Projects
+
+### Second Factory Branch IT Buildout - 10th of Ramadan
+
+- Established full branch infrastructure from server room to connectivity
+- Installed Cisco switches and structured cabling
+- Prepared server room racks, power, cooling, and layout
+- Built Windows Server Domain Controller with Active Directory and DHCP services
+- Deployed UniFi Controller for centralized network management
+- Created Site-to-Site VPN between Obour and 10th of Ramadan
+- Supported CRM rollout and CCTV installation
+
+### Secure Site-to-Site Connectivity Between Factories
+
+- Designed Site-to-Site VPN and validated secure routing
+- Hardened firewall policies using FortiGate and Sophos XG
+- Configured ZeroTier for secure remote access needs
+
+### Email Hosting Migration to Zoho Mail
+
+- Planned mailbox migration sequence and user communication
+- Executed Zoho Mail migration and verified delivery flows
+- Provided post-migration support and issue triage
+
+### Virtualization & Backup Foundation
+
+- Deployed VMware ESXi and Proxmox VE for server workloads
+- Implemented Veeam and Proxmox Backup Server schedules
+- Documented restore workflows and backup health checks
+
+### Firewall Hardening & Network Security
+
+- Configured FortiGate and Sophos XG policies for branch networks
+- Rolled out Kaspersky Endpoint Security controls
+- Monitored security posture and resolved vulnerabilities
 
 ---
 
@@ -107,13 +199,15 @@ El-Obour Higher Institute
 
 ## Certifications & Training
 
-- FortiGate Firewall
-- Sophos XG Firewall
-- Veeam Backup & Replication
-- MCSA
-- CCNA
-- Kaspersky Endpoint Security
-- Issabel & Openfire VoIP
+| Date | Certification / Training | Area |
+| --- | --- | --- |
+| Feb - Mar 2024 | FortiGate Certification | Network Security |
+| Nov 2022 - Feb 2023 | Sophos XG Certification | Firewall Security |
+| Feb - Apr 2023 | Veeam Training | Backup & Recovery |
+| 2021 | Kaspersky Course | Endpoint Security |
+| Feb - Mar 2021 | Issabel & Openfire | VoIP & Collaboration |
+| Jun - Nov 2020 | MCSA | Microsoft Certified Solutions Associate |
+| Feb - May 2020 | CCNA R&S | Cisco Routing & Switching |
 
 ---
 
@@ -124,11 +218,17 @@ El-Obour Higher Institute
 
 ---
 
-## Connect With Me
+## Contact
 
 <p align="center">
+  <a href="https://portfolio-ef2557.gitlab.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/dallah100">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dallah100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://facebook.com/dallah100">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -136,10 +236,15 @@ El-Obour Higher Institute
   <a href="https://wa.me/201095976843?text=Hello%20Abdallah">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:abdallahhamdy660@gmail.com">
+  <a href="mailto:Abdallahhamdy660@Gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+- Email: **Abdallahhamdy660@Gmail.com**
+- Location: **Cairo, Egypt**
+- WhatsApp: **+02 01095976843**
+- Portfolio: **https://portfolio-ef2557.gitlab.io/**
 
 ---
 
