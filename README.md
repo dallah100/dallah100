@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=190&section=header&text=Abdallah%20Hamdy%20Abdelaziz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Infrastructure%20%26%20System%20Administrator&descAlignY=60&descSize=18" alt="Header banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:2563eb,100:22c55e&amp;height=190&amp;section=header&amp;text=Abdallah%20Hamdy%20Abdelaziz&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=IT%20Infrastructure%20and%20System%20Administrator&amp;descAlignY=60&amp;descSize=18" alt="Header banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=IT+Infrastructure+Administrator;System+Administrator;Network+%26+Firewall+Specialist;Windows+Server+%26+Virtualization;ERP+%26+Backup+Support" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=IT+Infrastructure+Administrator;System+Administrator;Network+and+Firewall+Specialist;Windows+Server+and+Virtualization;ERP+and+Backup+Support" alt="Typing animation">
 </p>
 
 <p align="center">
@@ -293,15 +293,15 @@ El-Obour Higher Institute
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dallah100&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats for dallah100">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dallah100&amp;show_icons=true&amp;theme=tokyonight&amp;cache_seconds=86400" alt="GitHub stats for dallah100">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dallah100&theme=tokyonight&cache_seconds=86400" alt="GitHub streak for dallah100">
+  <img src="https://streak-stats.demolab.com?user=dallah100&amp;theme=tokyonight&amp;cache_seconds=86400" alt="GitHub streak for dallah100">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dallah100&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dallah100&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="GitHub activity graph">
 </p>
 
 ---
@@ -311,5 +311,5 @@ El-Obour Higher Institute
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22c55e,50:2563eb,100:0f172a&amp;height=120&amp;section=footer" alt="Footer wave">
 </p>
