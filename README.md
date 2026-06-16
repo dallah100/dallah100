@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Abdallah Hamdy Abdelaziz</h1>
-
-<h3 align="center">IT Infrastructure & System Administrator</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=190&section=header&text=Abdallah%20Hamdy%20Abdelaziz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Infrastructure%20%26%20System%20Administrator&descAlignY=60&descSize=18" alt="Header banner">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT%20Infrastructure%20Administrator;System%20Administrator;Network%20%26%20Firewall%20Specialist;Windows%20Server%20%26%20Virtualization;ERP%20%26%20Backup%20Support&center=true&width=720&height=45" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=IT+Infrastructure+Administrator;System+Administrator;Network+%26+Firewall+Specialist;Windows+Server+%26+Virtualization;ERP+%26+Backup+Support" alt="Typing animation">
 </p>
 
 <p align="center">
@@ -12,6 +12,9 @@
   </a>
   <a href="https://www.linkedin.com/in/dallah100">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/dallah100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:Abdallahhamdy660@Gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -23,35 +26,70 @@
 
 ---
 
-## About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" alt="Windows"> About Me
 
-I am an IT Infrastructure & System Administrator based in Cairo, Egypt. I build and maintain reliable IT foundations across systems, networking, security, virtualization, backup, ERP support, and enterprise user operations.
+I am an **IT Infrastructure & System Administrator** based in **Cairo, Egypt**. I build and maintain reliable IT foundations across systems, networking, security, virtualization, backup, ERP support, and enterprise user operations.
 
 My work focuses on stable access, secure connectivity, clean network segmentation, reliable recovery, and practical infrastructure upgrades across branches, factories, and business departments.
 
-- Current role: **IT System Administrator at Wagdy Moamen Group**
-- Experience across **enterprise users, factories, branches, and head office environments**
-- Hands-on with **Windows Server, Active Directory, firewalls, VPN, virtualization, backup, ERP, CRM, and CCTV**
-- Strong background in **FortiGate, Sophos XG, VMware, Proxmox, Veeam, UniFi, and Microsoft Dynamics AX**
-- Organized, analytical, and calm under pressure
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Current%20Role-IT%20System%20Administrator-2563EB?style=flat-square" alt="Current role"><br>
+      <strong>Wagdy Moamen Group</strong>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-16A34A?style=flat-square" alt="Location"><br>
+      Enterprise infrastructure, branches, factories, and head office environments
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-Stable%20%26%20Secure%20Operations-0F172A?style=flat-square" alt="Focus"><br>
+      Firewalls, VPN, backup, ERP, CRM, CCTV, and endpoint support
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Strength-Calm%20Under%20Pressure-7C3AED?style=flat-square" alt="Strength"><br>
+      Organized, analytical, and focused on practical solutions
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Profile Snapshot
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="24" alt="Metrics"> Profile Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Roles-4-2563EB?style=for-the-badge" alt="4 IT roles">
+  <img src="https://img.shields.io/badge/Certifications%20%26%20Training-7-16A34A?style=for-the-badge" alt="7 certifications">
+  <img src="https://img.shields.io/badge/Enterprise%20Users-250%2B-F59E0B?style=for-the-badge" alt="250+ users">
+  <img src="https://img.shields.io/badge/Servers-10%2B-DC2626?style=for-the-badge" alt="10+ servers">
+  <img src="https://img.shields.io/badge/Locations-3%20Factories%20%2B%20HQ-7C3AED?style=for-the-badge" alt="3 factories and HQ">
+</p>
 
 | Area | Details |
 | --- | --- |
-| IT roles held | 4 |
-| Certifications & training | 7 |
 | Firewall platforms | FortiGate, Sophos XG |
-| Enterprise users supported | 250+ |
-| Business locations | 3 factories & head office |
-| Servers managed | 10+ |
 | Virtualization stack | VMware ESXi, Proxmox VE |
+| Backup stack | Veeam, Proxmox Backup Server |
+| Business systems | Microsoft Dynamics AX, CRM, Zoho Mail |
 
 ---
 
-## Core Skills
+## <img src="https://cdn.simpleicons.org/cloudflare/0EA5E9" width="24" alt="Network"> Core Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Active%20Directory-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory">
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
+  <img src="https://img.shields.io/badge/Sophos%20XG-0057B8?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos XG">
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi">
+  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE">
+  <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam">
+  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="UniFi">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Microsoft%20Dynamics%20AX-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Dynamics AX">
+</p>
 
 | Skill | Focus |
 | --- | --- |
@@ -65,48 +103,38 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 
 ---
 
-## Technical Skills
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" alt="Infrastructure"> Technical Stack
 
-### Systems & Infrastructure
-
-- Windows Server: Active Directory, DNS, DHCP, Domain Controller
-- User, group, permission, and policy management
-- VMware ESXi and Proxmox VE virtualization
-- Veeam Backup & Replication
-- Proxmox Backup Server
-- Server room setup, racks, power, cooling, and layout planning
-
-### Networking
-
-- Cisco Catalyst switches
-- HP and Fortinet switches
-- UniFi Controller and wireless access points
-- Site-to-Site VPN
-- ZeroTier secure remote access
-- Multi-branch network support and troubleshooting
-
-### Security & Firewalls
-
-- FortiGate Firewall
-- Sophos XG Firewall
-- Firewall rules, routing, VPNs, and network segmentation
-- Kaspersky Endpoint Security
-- Endpoint protection and access control
-
-### Business Applications
-
-- Microsoft Dynamics AX ERP
-- CRM systems
-- Zoho Mail migration and support
-- Microsoft Office Suite
-- CCTV systems
-- Print server and shared services support
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42" alt="Systems"><br>
+      <strong>Systems</strong><br>
+      Windows Server, AD, DNS, DHCP, Domain Controller, users, permissions, and policies
+    </td>
+    <td width="25%" align="center">
+      <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" alt="Networking"><br>
+      <strong>Networking</strong><br>
+      Cisco, HP, Fortinet switches, UniFi, Site-to-Site VPN, ZeroTier
+    </td>
+    <td width="25%" align="center">
+      <img src="https://cdn.simpleicons.org/proxmox/E57000" width="42" alt="Virtualization"><br>
+      <strong>Virtualization</strong><br>
+      VMware ESXi, Proxmox VE, server workloads, backup scheduling
+    </td>
+    <td width="25%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42" alt="Applications"><br>
+      <strong>Applications</strong><br>
+      Dynamics AX, CRM, Zoho Mail, Microsoft Office, CCTV, print services
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Professional Experience
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" alt="Experience"> Professional Experience
 
-### IT System Administrator
+### <img src="https://img.shields.io/badge/Current-2563EB?style=flat-square" alt="Current"> IT System Administrator
 
 **Wagdy Moamen Group | Obour City**  
 **Feb 2024 - Present**
@@ -118,7 +146,7 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 - Designed and built server room infrastructure for business operations
 - Established secure connectivity between factories and business locations
 
-### IT Specialist
+### <img src="https://img.shields.io/badge/IT%20Specialist-16A34A?style=flat-square" alt="IT Specialist"> IT Specialist
 
 **Al-Tawfiq Company for Plastic & Woven Sacks**  
 **May 2023 - Feb 2024**
@@ -130,7 +158,7 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 - Maintained network availability, endpoint security, and user access controls
 - Provided Microsoft Dynamics AX ERP support
 
-### IT Specialist
+### <img src="https://img.shields.io/badge/IT%20Specialist-0EA5E9?style=flat-square" alt="IT Specialist"> IT Specialist
 
 **Royal Industry and Trade (SERA)**  
 **Jul 2022 - May 2023**
@@ -140,7 +168,7 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 - Resolved incidents with clear communication and follow-through
 - Supported users, devices, and business operations across multiple branches
 
-### IT Help Desk
+### <img src="https://img.shields.io/badge/Help%20Desk-7C3AED?style=flat-square" alt="Help Desk"> IT Help Desk
 
 **Mepaco Company of Medicine**  
 **Jan 2021 - Jun 2021**
@@ -151,53 +179,67 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 
 ---
 
-## Signature Projects
+## <img src="https://cdn.simpleicons.org/trello/0052CC" width="24" alt="Projects"> Signature Projects
 
-### Second Factory Branch IT Buildout - 10th of Ramadan
-
-- Established full branch infrastructure from server room to connectivity
-- Installed Cisco switches and structured cabling
-- Prepared server room racks, power, cooling, and layout
-- Built Windows Server Domain Controller with Active Directory and DHCP services
-- Deployed UniFi Controller for centralized network management
-- Created Site-to-Site VPN between Obour and 10th of Ramadan
-- Supported CRM rollout and CCTV installation
-
-### Secure Site-to-Site Connectivity Between Factories
-
-- Designed Site-to-Site VPN and validated secure routing
-- Hardened firewall policies using FortiGate and Sophos XG
-- Configured ZeroTier for secure remote access needs
-
-### Email Hosting Migration to Zoho Mail
-
-- Planned mailbox migration sequence and user communication
-- Executed Zoho Mail migration and verified delivery flows
-- Provided post-migration support and issue triage
-
-### Virtualization & Backup Foundation
-
-- Deployed VMware ESXi and Proxmox VE for server workloads
-- Implemented Veeam and Proxmox Backup Server schedules
-- Documented restore workflows and backup health checks
-
-### Firewall Hardening & Network Security
-
-- Configured FortiGate and Sophos XG policies for branch networks
-- Rolled out Kaspersky Endpoint Security controls
-- Monitored security posture and resolved vulnerabilities
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Second Factory Branch IT Buildout</h3>
+      <img src="https://img.shields.io/badge/Location-10th%20of%20Ramadan-2563EB?style=flat-square" alt="10th of Ramadan">
+      <p>Established full branch infrastructure from server room to connectivity.</p>
+      <ul>
+        <li>Installed Cisco switches and structured cabling</li>
+        <li>Built Windows Server DC with AD and DHCP</li>
+        <li>Deployed UniFi Controller and Site-to-Site VPN</li>
+        <li>Supported CRM rollout and CCTV installation</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Secure Site-to-Site Connectivity</h3>
+      <img src="https://img.shields.io/badge/Security-FortiGate%20%2B%20Sophos%20XG-DC2626?style=flat-square" alt="FortiGate and Sophos XG">
+      <p>Connected branches with secure and reliable inter-site access.</p>
+      <ul>
+        <li>Designed Site-to-Site VPN and secure routing</li>
+        <li>Hardened firewall policies</li>
+        <li>Configured ZeroTier remote access</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Email Hosting Migration</h3>
+      <img src="https://img.shields.io/badge/Platform-Zoho%20Mail-F59E0B?style=flat-square" alt="Zoho Mail">
+      <p>Migrated business email to a managed hosting platform.</p>
+      <ul>
+        <li>Planned mailbox migration sequence</li>
+        <li>Verified delivery flows</li>
+        <li>Provided post-migration support</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Virtualization & Backup Foundation</h3>
+      <img src="https://img.shields.io/badge/Stack-VMware%20%2F%20Proxmox%20%2F%20Veeam-16A34A?style=flat-square" alt="VMware Proxmox Veeam">
+      <p>Standardized virtualization and backup tooling across environments.</p>
+      <ul>
+        <li>Deployed VMware ESXi and Proxmox VE</li>
+        <li>Implemented Veeam and Proxmox Backup Server schedules</li>
+        <li>Documented restore workflows and health checks</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Education
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="24" alt="Training"> Education & Certifications
+
+### Education
 
 **Bachelor's Degree in Management Information Systems**  
 El-Obour Higher Institute  
 **2014 - 2018**
 
----
-
-## Certifications & Training
+### Certifications & Training
 
 | Date | Certification / Training | Area |
 | --- | --- | --- |
@@ -211,14 +253,14 @@ El-Obour Higher Institute
 
 ---
 
-## Languages
+## <img src="https://cdn.simpleicons.org/googletranslate/4285F4" width="24" alt="Languages"> Languages
 
 - Arabic: Native
 - English: Good working proficiency
 
 ---
 
-## Contact
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="Contact"> Contact
 
 <p align="center">
   <a href="https://portfolio-ef2557.gitlab.io/">
@@ -248,7 +290,7 @@ El-Obour Higher Institute
 
 ---
 
-## GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dallah100&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats for dallah100">
@@ -258,8 +300,16 @@ El-Obour Higher Institute
   <img src="https://streak-stats.demolab.com?user=dallah100&theme=tokyonight&cache_seconds=86400" alt="GitHub streak for dallah100">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dallah100&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+</p>
+
 ---
 
 <p align="center">
   <strong>"Technology is best when it brings people together."</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer wave">
 </p>
