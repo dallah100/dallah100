@@ -79,6 +79,14 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 ## <img src="https://cdn.simpleicons.org/cloudflare/0EA5E9" width="24" alt="Network"> Core Skills
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=600&amp;size=20&amp;pause=900&amp;color=22C55E&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Windows+Server+%7C+Active+Directory+%7C+DNS+%7C+DHCP;FortiGate+%7C+Sophos+XG+%7C+VPN+%7C+Network+Segmentation;VMware+ESXi+%7C+Proxmox+VE+%7C+Veeam+Backup;Cisco+%7C+UniFi+%7C+ZeroTier+%7C+Multi-Branch+Networks;Dynamics+AX+%7C+CRM+%7C+Zoho+Mail+%7C+CCTV" alt="Animated skills">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,azure,gitlab,github,cloudflare,prometheus,grafana" alt="Infrastructure icons">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
   <img src="https://img.shields.io/badge/Active%20Directory-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory">
   <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate">
@@ -132,50 +140,75 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" alt="Experience"> Professional Experience
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" alt="Experience"> Professional Timeline
 
-### <img src="https://img.shields.io/badge/Current-2563EB?style=flat-square" alt="Current"> IT System Administrator
-
-**Wagdy Moamen Group | Obour City**  
-**Feb 2024 - Present**
-
-- Administer Windows Server Active Directory, DHCP, and DNS for enterprise users
-- Maintain firewall policies, routing, VPNs, and secure network segmentation
-- Support Microsoft Dynamics AX and business-critical workflows
-- Oversee virtualization and backup operations using VMware, Proxmox, Veeam, and Proxmox Backup Server
-- Designed and built server room infrastructure for business operations
-- Established secure connectivity between factories and business locations
-
-### <img src="https://img.shields.io/badge/IT%20Specialist-16A34A?style=flat-square" alt="IT Specialist"> IT Specialist
-
-**Al-Tawfiq Company for Plastic & Woven Sacks**  
-**May 2023 - Feb 2024**
-
-- Delivered multi-branch IT support and troubleshooting
-- Configured ZeroTier for secure cross-branch access
-- Managed VMware ESXi virtualization environment
-- Administered Sophos firewall and security policies
-- Maintained network availability, endpoint security, and user access controls
-- Provided Microsoft Dynamics AX ERP support
-
-### <img src="https://img.shields.io/badge/IT%20Specialist-0EA5E9?style=flat-square" alt="IT Specialist"> IT Specialist
-
-**Royal Industry and Trade (SERA)**  
-**Jul 2022 - May 2023**
-
-- Managed daily IT operations for staff and infrastructure
-- Supported network devices, Windows services, and endpoint systems
-- Resolved incidents with clear communication and follow-through
-- Supported users, devices, and business operations across multiple branches
-
-### <img src="https://img.shields.io/badge/Help%20Desk-7C3AED?style=flat-square" alt="Help Desk"> IT Help Desk
-
-**Mepaco Company of Medicine**  
-**Jan 2021 - Jun 2021**
-
-- Handled user support tickets and system troubleshooting
-- Maintained endpoint security and basic network access
-- Coordinated with teams to restore services quickly
+<table>
+  <tr>
+    <td width="22%" align="center">
+      <img src="https://img.shields.io/badge/Feb%202024-Present-2563EB?style=for-the-badge" alt="Feb 2024 Present"><br>
+      <strong>Current</strong>
+    </td>
+    <td width="78%">
+      <h3>IT System Administrator</h3>
+      <strong>Wagdy Moamen Group | Obour City</strong>
+      <ul>
+        <li>Administer Windows Server Active Directory, DHCP, and DNS for enterprise users</li>
+        <li>Maintain firewall policies, routing, VPNs, and secure network segmentation</li>
+        <li>Support Microsoft Dynamics AX and business-critical workflows</li>
+        <li>Oversee virtualization and backup operations using VMware, Proxmox, Veeam, and Proxmox Backup Server</li>
+        <li>Designed server room infrastructure and secure connectivity between factories</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center">
+      <img src="https://img.shields.io/badge/May%202023-Feb%202024-16A34A?style=for-the-badge" alt="May 2023 Feb 2024"><br>
+      <strong>Infrastructure Support</strong>
+    </td>
+    <td width="78%">
+      <h3>IT Specialist</h3>
+      <strong>Al-Tawfiq Company for Plastic & Woven Sacks</strong>
+      <ul>
+        <li>Delivered multi-branch IT support and troubleshooting</li>
+        <li>Configured ZeroTier for secure cross-branch access</li>
+        <li>Managed VMware ESXi virtualization environment</li>
+        <li>Administered Sophos firewall and security policies</li>
+        <li>Maintained network availability, endpoint security, and Microsoft Dynamics AX ERP support</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center">
+      <img src="https://img.shields.io/badge/Jul%202022-May%202023-0EA5E9?style=for-the-badge" alt="Jul 2022 May 2023"><br>
+      <strong>Operations</strong>
+    </td>
+    <td width="78%">
+      <h3>IT Specialist</h3>
+      <strong>Royal Industry and Trade (SERA)</strong>
+      <ul>
+        <li>Managed daily IT operations for staff and infrastructure</li>
+        <li>Supported network devices, Windows services, and endpoint systems</li>
+        <li>Resolved incidents with clear communication and follow-through</li>
+        <li>Supported users, devices, and business operations across multiple branches</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center">
+      <img src="https://img.shields.io/badge/Jan%202021-Jun%202021-7C3AED?style=for-the-badge" alt="Jan 2021 Jun 2021"><br>
+      <strong>Help Desk</strong>
+    </td>
+    <td width="78%">
+      <h3>IT Help Desk</h3>
+      <strong>Mepaco Company of Medicine</strong>
+      <ul>
+        <li>Handled user support tickets and system troubleshooting</li>
+        <li>Maintained endpoint security and basic network access</li>
+        <li>Coordinated with teams to restore services quickly</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
