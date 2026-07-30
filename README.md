@@ -260,6 +260,22 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
       </ul>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Network Restructure: Copper to Fiber Uplinks</h3>
+      <img src="https://img.shields.io/badge/Migration-UTP%20%E2%86%92%20Fiber%20Optic-0EA5E9?style=flat-square" alt="UTP to fiber migration">
+      <img src="https://img.shields.io/badge/Scope-Switch%20Uplinks%20%26%20Backbone-2563EB?style=flat-square" alt="Switch uplinks and backbone">
+      <p>Redesigned the network topology and migrated every switch uplink from UTP copper to fiber optic, removing distance limits and copper-related instability across the site backbone.</p>
+      <ul>
+        <li>Surveyed the existing topology and mapped all copper uplinks and distribution points</li>
+        <li>Planned fiber routes, patching, and SFP module selection per link</li>
+        <li>Installed fiber runs, patch panels, and SFP/SFP+ transceivers on core and access switches</li>
+        <li>Cut over uplinks with minimal downtime and validated link speed, errors, and stability</li>
+        <li>Improved backbone throughput, reduced latency, and eliminated electrical interference issues</li>
+        <li>Updated network documentation and labeling for the new fiber backbone</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
