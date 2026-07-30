@@ -217,6 +217,17 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
 <table>
   <tr>
     <td width="50%">
+      <h3>Network Restructure to Fiber Uplinks</h3>
+      <img src="https://img.shields.io/badge/Migration-UTP%20to%20Fiber-0EA5E9?style=flat-square" alt="UTP to fiber">
+      <p>Restructured the network and moved all switch uplinks from UTP to fiber optic.</p>
+      <ul>
+        <li>Mapped existing topology and copper uplinks</li>
+        <li>Planned fiber routes and SFP module selection</li>
+        <li>Installed fiber runs, patch panels, and transceivers</li>
+        <li>Cut over uplinks with minimal downtime and validated links</li>
+      </ul>
+    </td>
+    <td width="50%">
       <h3>Second Factory Branch IT Buildout</h3>
       <img src="https://img.shields.io/badge/Location-10th%20of%20Ramadan-2563EB?style=flat-square" alt="10th of Ramadan">
       <p>Established full branch infrastructure from server room to connectivity.</p>
@@ -227,6 +238,8 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
         <li>Supported CRM rollout and CCTV installation</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Secure Site-to-Site Connectivity</h3>
       <img src="https://img.shields.io/badge/Security-FortiGate%20%2B%20Sophos%20XG-DC2626?style=flat-square" alt="FortiGate and Sophos XG">
@@ -237,8 +250,6 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
         <li>Configured ZeroTier remote access</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Email Hosting Migration</h3>
       <img src="https://img.shields.io/badge/Platform-Zoho%20Mail-F59E0B?style=flat-square" alt="Zoho Mail">
@@ -249,6 +260,8 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
         <li>Provided post-migration support</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Virtualization & Backup Foundation</h3>
       <img src="https://img.shields.io/badge/Stack-VMware%20%2F%20Proxmox%20%2F%20Veeam-16A34A?style=flat-square" alt="VMware Proxmox Veeam">
@@ -259,22 +272,7 @@ My work focuses on stable access, secure connectivity, clean network segmentatio
         <li>Documented restore workflows and health checks</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>Network Restructure: Copper to Fiber Uplinks</h3>
-      <img src="https://img.shields.io/badge/Migration-UTP%20%E2%86%92%20Fiber%20Optic-0EA5E9?style=flat-square" alt="UTP to fiber migration">
-      <img src="https://img.shields.io/badge/Scope-Switch%20Uplinks%20%26%20Backbone-2563EB?style=flat-square" alt="Switch uplinks and backbone">
-      <p>Redesigned the network topology and migrated every switch uplink from UTP copper to fiber optic, removing distance limits and copper-related instability across the site backbone.</p>
-      <ul>
-        <li>Surveyed the existing topology and mapped all copper uplinks and distribution points</li>
-        <li>Planned fiber routes, patching, and SFP module selection per link</li>
-        <li>Installed fiber runs, patch panels, and SFP/SFP+ transceivers on core and access switches</li>
-        <li>Cut over uplinks with minimal downtime and validated link speed, errors, and stability</li>
-        <li>Improved backbone throughput, reduced latency, and eliminated electrical interference issues</li>
-        <li>Updated network documentation and labeling for the new fiber backbone</li>
-      </ul>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
